@@ -1,0 +1,11 @@
+.filters {
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.filter {
+    font-size: .75rem;
+    margin-left: 4px;
+    margin-right: 2.5rem;
+}
