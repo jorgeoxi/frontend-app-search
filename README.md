@@ -2,9 +2,20 @@
 
   # Frontend Test 2.0
 
-Project to create an application responsible for registering guests at a conference.
+El proyecto tiene como finalidad, realizar un busqueda entre 4 archivos JSON. La búsqueda se debe realizar por la mayor cantidad de campos.
 
-Using technologies like React, managing state and creating a JSON server that serves as API to locally test the project
+Se deben mostrar los resultados de la busqueda en todos los archivos locales.
+
+# Instalación
+
+Realizar descarga del proyecto 
+
+```sh
+git clone https://github.com/jorgeoxi/frontend-app-search.git
+cd frontend-app-search
+npm start
+```
+
 
 **Landing Page**
 
