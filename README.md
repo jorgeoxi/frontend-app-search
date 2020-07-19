@@ -14,7 +14,7 @@ Using technologies like React, managing state and creating a JSON server that se
 
 ![SearchPage](https://github.com/jorgeoxi/frontend-app-search/blob/master/docs/searchpage.png?raw=true)
 
-####Cuestionario: 
+#### Cuestionario: 
 
 **¿Por qué no debería usar la librería JQuery, si estoy usando ReactJS?**
 Siendo que, JQuery es una librería algo vieja (aunque muchos sitios legacy la siguen utilizando), La funcionalidad que te da React, es superior en este tiempo. Con React puedes manejar la interacción, manejo de eventos y manipular el VirtualDOM de una manera sencilla y transformando las aplicaciones a proyectos mucho más responsivos y de una sola página (SPA).  Con esto manejamos de mejor manera el uso de la memoria en el navegador y lo que se traduce en mejor manejo de memoria del equipo en donde se esté accediendo a nuestra aplicación.
