@@ -5,7 +5,7 @@ function TopNav() {
     return (
         <div className={styles['top-nav']}>
             <div className={styles.left}>
-                <span>Frontend SearchApp</span>
+                <span><h1>Frontend SearchApp</h1></span>
             </div>
             <div className={styles.right}>
                 <span>Login</span>

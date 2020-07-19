@@ -1,0 +1,18 @@
+.nav-bar {
+    display: flex;
+    background: #a8dadc;
+    padding: 1rem 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 40px;
+    margin-bottom: auto;
+    margin-right: 1rem;
+}
+
+:global(.button).nav-button {
+    margin-left: 1rem;
+    margin-bottom: auto;
+}
